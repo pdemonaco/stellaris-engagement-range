@@ -13,4 +13,4 @@ The Artillery computer is intended to be used with the advanced large weapons wh
 
 See the [Stellaris wiki](http://www.stellariswiki.com/Modding) for more info on how to install.
 
-It's also on [steam workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1194087507) for easier installing.
+It's also on [steam workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1593006126) for easier installing.
